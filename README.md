@@ -17,10 +17,7 @@ This Power BI Sales Dashboard was developed to showcase how data can be transfor
   - **Slicers:** To dynamically filter the report by Sales Month.
 
   ## Dashboard Overview
-
-  ### Page 1: High-Level Market View
-
-  ![Dashboard Page 1](/Images/Sales%20Dashboard%20Page.png)
+  ![Sales Dashboard](Images/Sales%20Dashboard%20Page.png)
 
   An interactive Power BI dashboard designed to provide a holistic view of sales performance across products, regions, sales representatives, revenue, and profitability. It transforms sales data into actionable insights, helping organizations identify trends, evaluate performance, and make informed business decisions.
 
