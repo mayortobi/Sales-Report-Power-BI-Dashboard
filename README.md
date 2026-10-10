@@ -16,6 +16,20 @@ This Power BI Sales Dashboard was developed to showcase how data can be transfor
 - **Interactive Reporting:**
   - **Slicers:** To dynamically filter the report by Sales Month.
 
+## Key Areas of Analysis:
+
+-  **Sales Performance:** Monitored total sales, total orders, and quantity sold to provide a high-level overview of business performance.
+
+-  **Sales Trends Over Time:** Analyzed daily sales performance to identify fluctuations, patterns, and periods of increased or decreased revenue.
+
+-  **Product Category Analysis:** Compared sales across Furniture, Clothing, Electronics, and Food to identify top-performing product categories.
+
+- **Regional Performance:** Evaluated sales across the North, East, South, and West regions to understand geographical performance and identify opportunities for growth.
+
+- **Sales Representative Analysis:** Compared sales and profit contributions across representatives to highlight individual performance and profitability.
+
+- **Weekday vs. Weekend Analysis:** Examined the distribution of sales across weekdays and weekends to understand purchasing patterns.
+
   ## Dashboard Overview
 
   An interactive Power BI dashboard designed to provide a holistic view of sales performance across products, regions, sales representatives, revenue, and profitability. It transforms sales data into actionable insights, helping organizations identify trends, evaluate performance, and make informed business decisions.
